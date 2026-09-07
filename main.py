@@ -1,11 +1,16 @@
+"""
+Name: April Lhen Paniza
+Section: BSIT 4A
+"""
+
 def greet(name):
     print(f"Hello, {name}!")
-    
-greet("World")
 
 def add(a, b):
     """Returns the sum of two numbers."""
     return a + b
+    
+greet("World")
 
 print("--------ADD---------")
 
